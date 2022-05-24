@@ -1,3 +1,2 @@
 # FinalProject
-ignore this repository
-
+this has the monster class
